@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hanseltritama/Documents/parse-server-aws/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/34588f81caa906af8f7b40d6033dc7bb/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

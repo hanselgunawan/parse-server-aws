@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hanseltritama/Documents/parse-server-aws/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/34588f81caa906af8f7b40d6033dc7bb/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+# Referenced at /Users/hanseltritama/Documents/parse-server-aws/ParseStarterProject/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:38
+-keep class com.parse.starter.StarterApplication { <init>(...); }
